@@ -48,7 +48,6 @@ Essential mathematical concepts underlying machine learning and AI.
 Master the mathematical foundation of machine learning algorithms.
 
 - [Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🎥 – Visual and intuitive approach to linear algebra
-- [Linear Algebra Online Guide – 365DataScience](https://365datascience.com/tutorials/linear-algebra-tutorials/) 📚 – Comprehensive online tutorials
 - [Singular Value Decomposition Explained](https://www.youtube.com/watch?v=P5mlg91as1c) 🎥 – Deep dive into SVD
 
 ---

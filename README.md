@@ -248,7 +248,7 @@ Large language models, transformers, and generative AI systems.
 
 ### 📊 Model Comparison & Resources
 
-- [LangChain Cookbook]([https://python.langchain.com/docs/get_started/quickstart](https://python.langchain.com/docs/tutorials/) – LLM application patterns
+- [LangChain Cookbook](https://python.langchain.com/docs/tutorials/) – LLM application patterns
 
 ### 🛠️ Development Tools
 
@@ -275,11 +275,6 @@ AI-powered educational technology and course creation platforms.
 ## 🏭 Miscellaneous/Industry
 
 Specialized tools and platforms for specific industries and applications.
-
-### 🔧 Computer Vision in Industry
-
-- [Cognex ViDi Suite](https://www.cognex.com/products/machine-vision/vision-software/vidi-suite) – Industrial vision AI
-- [Fixzy Assist](https://fixzy.ai/) – AI-powered repair assistance
 
 ### 🏢 Enterprise AI Platforms
 

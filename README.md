@@ -191,3 +191,31 @@ Essential tools and libraries for machine learning development.
 - **Java**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/), [Smile](https://haifengl.github.io/)
 
 ---
+
+## 📚 Books/Blogs
+
+Curated reading list for deep understanding and practical insights.
+
+### 📖 Essential Textbooks
+
+| Book | Authors | Focus Area |
+|---|---|---|
+| [AI: A Modern Approach](https://aima.cs.berkeley.edu/) | Russell & Norvig | General AI |
+| [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | Deep Learning Theory |
+| [Hands-On ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Géron | Practical ML |
+| [Pattern Recognition and ML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | Statistical ML |
+
+### 🔗 Must-Read Blogs & Articles
+
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) – Visual guide to attention mechanisms
+- [Understanding LLMs with Middle School Math](https://blog.pragmaticengineer.com/how-llms-work/) – Accessible LLM explanations
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen's online book
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) – Comprehensive prompting techniques
+
+### 🏭 Industry & Practice
+
+- [AI Engineering](https://huyenchip.com/ml-interviews-book/) – Chip Huyen's practical guide
+- [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/) – Business applications
+- [Practical ML with Ethical Insights](https://ethical-ml-guide.github.io/) – Responsible AI development
+
+---

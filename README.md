@@ -92,3 +92,34 @@ Core machine learning concepts, algorithms, and practical applications.
 - [Approaching (Almost) Any ML Problem](https://github.com/abhishekkrthakur/approachingalmost) 📖 – Practical problem-solving guide
 
 ---
+
+## 🧠 Deep Learning
+
+Neural networks, deep architectures, and modern AI systems.
+
+### 📖 Essential Books & Courses
+
+- [Deep Learning – Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/) – Definitive deep learning textbook
+- [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 🎥 – Karpathy's hands-on neural networks
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/) 🎓 – Production ML systems
+- [Deep Learning for Coders](https://course.fast.ai/) 🎓 – Practical deep learning with fast.ai
+
+### 🏫 Specialized Courses
+
+- [OpenCV University](https://opencv.org/courses/) – Computer vision specialization
+- [DeepLearning.AI Courses](https://www.deeplearning.ai/) – Andrew Ng's deep learning specialization
+- [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) – Transformers and NLP
+
+---
+
+## 🎮 Reinforcement Learning
+
+Learning through interaction and decision making.
+
+- [Practical RL Course](https://github.com/yandexdataschool/Practical_RL) 📚 – Hands-on RL implementations
+- [CARLA Simulator](https://carla.org/) 🚗 – Autonomous driving simulation
+- [Tensorforce](https://tensorforce.readthedocs.io/) 🔧 – RL framework
+- [Ray RLlib](https://docs.ray.io/en/latest/rllib/index.html) 🔧 – Scalable RL library
+- [RL: An Introduction – Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html) 📖 – The RL bible
+
+---

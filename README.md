@@ -213,7 +213,6 @@ Curated reading list for deep understanding and practical insights.
 
 - [AI Engineering](https://huyenchip.com/ml-interviews-book/) – Chip Huyen's practical guide
 - [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/) – Business applications
-- [Practical ML with Ethical Insights](https://ethical-ml-guide.github.io/) – Responsible AI development
 
 ---
 

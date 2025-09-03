@@ -248,7 +248,7 @@ Large language models, transformers, and generative AI systems.
 
 ### 📊 Model Comparison & Resources
 
-- [LangChain Cookbook](https://python.langchain.com/docs/get_started/quickstart) – LLM application patterns
+- [LangChain Cookbook]([https://python.langchain.com/docs/get_started/quickstart](https://python.langchain.com/docs/tutorials/) – LLM application patterns
 
 ### 🛠️ Development Tools
 

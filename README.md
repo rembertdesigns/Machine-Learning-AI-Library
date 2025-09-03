@@ -245,7 +245,6 @@ Large language models, transformers, and generative AI systems.
 
 - [Meta LLaMA 3](https://llama.meta.com/) – Meta's flagship open model
 - [Hugging Face Model Hub](https://huggingface.co/models) – Comprehensive model repository
-- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) – Model performance rankings
 
 ### 📊 Model Comparison & Resources
 

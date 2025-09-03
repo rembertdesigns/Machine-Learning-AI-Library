@@ -42,3 +42,24 @@ Essential mathematical concepts underlying machine learning and AI.
 | [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/) | 📖 Book | Interview prep with mathematical focus |
 
 ---
+
+## 📊 Linear Algebra
+
+Master the mathematical foundation of machine learning algorithms.
+
+- [Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🎥 – Visual and intuitive approach to linear algebra
+- [Linear Algebra Online Guide – 365DataScience](https://365datascience.com/tutorials/linear-algebra-tutorials/) 📚 – Comprehensive online tutorials
+- [Singular Value Decomposition Explained](https://www.youtube.com/watch?v=P5mlg91as1c) 🎥 – Deep dive into SVD
+
+---
+
+## 📈 Calculus & Optimization
+
+Understanding optimization is crucial for machine learning algorithms.
+
+- [Essence of Calculus by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 🎥 – Visual calculus fundamentals
+- [MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) 🎓 – MIT's comprehensive calculus course
+- [Numerical Methods Primer](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) 📚 – Practical numerical computation
+- [Algorithms for Optimization](https://algorithmsbook.com/optimization/) 📖 – Modern optimization techniques
+
+---

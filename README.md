@@ -219,3 +219,61 @@ Curated reading list for deep understanding and practical insights.
 - [Practical ML with Ethical Insights](https://ethical-ml-guide.github.io/) – Responsible AI development
 
 ---
+
+## 🎯 Interactive Demos
+
+Hands-on learning through interactive visualizations and demos.
+
+### 🔍 Model Explanations
+
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) – Interactive CNN visualization
+- [Transformer Playground](https://transformer.huggingface.co/) – Explore transformer architecture
+- [Neural Network Playground](https://playground.tensorflow.org/) – Experiment with neural networks
+
+### 🎓 Learning Tools
+
+- [Prompt Engineering Tutorial](https://learnprompting.org/) – Interactive prompt engineering
+- [RL Flappy Bird Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) – Deep Q-Learning visualization
+
+### 🎨 Creative AI
+
+- [Midjourney](https://www.midjourney.com/) – AI image generation
+
+---
+
+## 🗣️ LLMs & Generative AI
+
+Large language models, transformers, and generative AI systems.
+
+### 🏆 Leading Open Source Models
+
+- [Meta LLaMA 3](https://llama.meta.com/) – Meta's flagship open model
+- [Hugging Face Model Hub](https://huggingface.co/models) – Comprehensive model repository
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) – Model performance rankings
+
+### 📊 Model Comparison & Resources
+
+- [Open Source LLMs 2025](https://www.instaclustr.com/blog/open-source-llms/) – Comprehensive model comparison
+- [LangChain Cookbook](https://python.langchain.com/docs/get_started/quickstart) – LLM application patterns
+
+### 🛠️ Development Tools
+
+- [Ollama](https://ollama.ai/) – Local LLM deployment
+- [LocalAI](https://localai.io/) – Self-hosted OpenAI alternative
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) – User-friendly LLM interface
+
+---
+
+## 🎓 EdTech & Course Creation Tools
+
+AI-powered educational technology and course creation platforms.
+
+| Tool | Description | Use Case |
+|---|---|---|
+| [Lingio](https://lingio.com/) | AI-driven course creation | Language learning |
+| [Coursebox](https://coursebox.ai/) | AI quiz and course builder | Automated course generation |
+| [CourseAI](https://courseai.com/) | E-learning authoring with AI | Content creation |
+| [Quizlet](https://quizlet.com/) | AI-powered study tools | Flashcards and quizzes |
+| [Snorkel AI](https://snorkel.ai/) | Programmatic data labeling | Training data creation |
+
+---

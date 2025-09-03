@@ -63,3 +63,32 @@ Understanding optimization is crucial for machine learning algorithms.
 - [Algorithms for Optimization](https://algorithmsbook.com/optimization/) 📖 – Modern optimization techniques
 
 ---
+
+## 🎲 Probability & Statistics
+
+Statistical foundations for understanding data and uncertainty in ML.
+
+- [Probability Theory for Data Science](https://probability4datascience.com/) 📖 – Applied probability for data science
+- [MIT Introduction to Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) 🎓 – Rigorous probability theory
+- [Seeing Theory (Interactive)](https://seeing-theory.brown.edu/) 🎯 – Interactive probability visualizations
+
+---
+
+## 🤖 Machine Learning
+
+Core machine learning concepts, algorithms, and practical applications.
+
+### 🎓 Courses
+
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course) – Google's practical ML intro
+- [Fast.ai Practical Machine Learning](https://course.fast.ai/) – Top-down practical approach
+- [Kaggle Learn](https://www.kaggle.com/learn) – Micro-courses with hands-on practice
+- [AI For Everyone – Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) – Non-technical AI overview
+
+### 📚 Resources
+
+- [Foundations of Machine Learning – Mohri et al.](https://cs.nyu.edu/~mohri/mlbook/) 📖 – Theoretical foundations
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) 📚 – Practical ML with Python
+- [Approaching (Almost) Any ML Problem](https://github.com/abhishekkrthakur/approachingalmost) 📖 – Practical problem-solving guide
+
+---

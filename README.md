@@ -123,3 +123,71 @@ Learning through interaction and decision making.
 - [RL: An Introduction – Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html) 📖 – The RL bible
 
 ---
+
+## 💻 Coding Resources
+
+Development environments, tools, and platforms for ML development.
+
+### 🛠️ Development Platforms
+
+| Platform | Description | Best For |
+|---|---|---|
+| [Kaggle Notebooks](https://www.kaggle.com/code) | Free GPU/TPU notebooks with datasets | Competitions & learning |
+| [Google Colab](https://colab.research.google.com/) | Free Jupyter notebooks with GPU | Prototyping & education |
+| [Jupyter Notebooks](https://jupyter.org/) | Interactive computing environment | Local development |
+
+### 🤖 AI-Powered Development
+
+- [GitHub Copilot](https://github.com/features/copilot) – AI pair programming
+- [Tabnine](https://www.tabnine.com/) – AI code completion
+- [OpenAI Codex](https://openai.com/blog/openai-codex) – Natural language to code
+
+### 📊 ML-Specific Tools
+
+- [Papers With Code](https://paperswithcode.com/) – Research papers with implementations
+- [LangChain](https://python.langchain.com/docs/get_started/introduction) – LLM application framework
+- [Docker](https://www.docker.com/) – Containerization for ML
+- [DataRobot](https://www.datarobot.com/) – AutoML platform
+- [LandingLens](https://landing.ai/platform/) – No-code computer vision
+
+---
+
+## 🔧 Frameworks/Libraries
+
+Essential tools and libraries for machine learning development.
+
+### 🐍 Python Ecosystem
+
+| Library | Category | Description |
+|---|---|---|
+| [TensorFlow](https://www.tensorflow.org/) | Deep Learning | Google's ML framework |
+| [PyTorch](https://pytorch.org/) | Deep Learning | Facebook's research-focused framework |
+| [Scikit-learn](https://scikit-learn.org/) | Traditional ML | User-friendly ML library |
+| [Keras](https://keras.io/) | Deep Learning | High-level neural networks API |
+| **Computer Vision** | | [OpenCV](https://opencv.org/) |
+| **NLP** | | [NLTK](https://www.nltk.org/), [SpaCy](https://spacy.io/), [Hugging Face Transformers](https://huggingface.co/transformers/) |
+| **Topic Modeling** | | [Gensim](https://radimrehurek.com/gensim/) |
+| **Gradient Boosting** | | [XGBoost](https://xgboost.readthedocs.io/), [CatBoost](https://catboost.ai/) |
+| **Chemistry** | | [DeepChem](https://deepchem.io/) |
+| **GPU Computing** | | [RAPIDS](https://rapids.ai/) |
+
+### 🔗 LLM & Chain Libraries
+
+- [LangChain](https://python.langchain.com/) – LLM application development
+- [LangGraph](https://langchain-ai.github.io/langgraph/) – Graph-based LLM workflows
+- [LangSmith](https://smith.langchain.com/) – LLM application monitoring
+- [Haystack](https://haystack.deepset.ai/) – NLP framework for search
+
+### 🔍 Interpretability
+
+- [InterpretML](https://interpret.ml/) – Model interpretability
+- [SHAP](https://github.com/slundberg/shap) – SHapley Additive exPlanations
+
+### 🌍 Other Languages
+
+- **JavaScript**: [Brain.js](https://brain.js.org/)
+- **Go**: [Gonum](https://www.gonum.org/), [Gorgonia](https://gorgonia.org/)
+- **Rust**: [RustLearn](https://github.com/maciejkula/rustlearn), [Rusty-machine](https://github.com/AtheMathmo/rusty-machine)
+- **Java**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/), [Smile](https://haifengl.github.io/)
+
+---

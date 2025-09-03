@@ -105,7 +105,6 @@ Neural networks, deep architectures, and modern AI systems.
 
 ### 🏫 Specialized Courses
 
-- [OpenCV University](https://opencv.org/courses/) – Computer vision specialization
 - [DeepLearning.AI Courses](https://www.deeplearning.ai/) – Andrew Ng's deep learning specialization
 - [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) – Transformers and NLP
 

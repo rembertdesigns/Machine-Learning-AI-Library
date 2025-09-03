@@ -206,7 +206,6 @@ Curated reading list for deep understanding and practical insights.
 ### 🔗 Must-Read Blogs & Articles
 
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) – Visual guide to attention mechanisms
-- [Understanding LLMs with Middle School Math](https://blog.pragmaticengineer.com/how-llms-work/) – Accessible LLM explanations
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen's online book
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) – Comprehensive prompting techniques
 

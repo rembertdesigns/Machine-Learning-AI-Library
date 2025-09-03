@@ -248,7 +248,6 @@ Large language models, transformers, and generative AI systems.
 
 ### 📊 Model Comparison & Resources
 
-- [Open Source LLMs 2025](https://www.instaclustr.com/blog/open-source-llms/) – Comprehensive model comparison
 - [LangChain Cookbook](https://python.langchain.com/docs/get_started/quickstart) – LLM application patterns
 
 ### 🛠️ Development Tools

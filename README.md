@@ -1,5 +1,7 @@
 # 📚 Machine Learning & AI Learning Library 2025
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 9, 2025 at 04_23_14 PM" src="https://github.com/user-attachments/assets/9f7603a0-8700-432a-ac66-97c3a0b7990a" />
+
 A curated, ever-growing roadmap for learning Machine Learning, Deep Learning, and AI. This comprehensive collection spans foundational mathematics, courses, demos, books, frameworks, open source LLMs, and EdTech tools—each resource is free or open-access for maximum accessibility.
 
 ---

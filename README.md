@@ -151,12 +151,41 @@ Derivatives, gradients, and optimization algorithms drive the learning process i
 ---
 
 ## 🎲 Probability & Statistics
+<img 
+  width="1584" 
+  height="396" 
+  alt="Probability & Statistics - Statistical analysis, probability theory, and data science fundamentals essential for machine learning and AI" 
+  title="Probability & Statistics: Statistical Learning & Data Science Fundamentals"
+  src="https://github.com/user-attachments/assets/f8d31f1d-e0ba-4795-93b1-95b89bc83cc1"
+  loading="lazy"
+/>
 
-Statistical foundations for understanding data and uncertainty in ML.
+Statistical thinking and probability theory form the foundation of data science and machine learning. From understanding data distributions and hypothesis testing to Bayesian inference and uncertainty quantification, these concepts enable you to make sense of data, build robust models, and interpret AI system outputs with confidence.
 
-- [Probability Theory for Data Science](https://probability4datascience.com/) 📖 – Applied probability for data science
-- [MIT Introduction to Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) 🎓 – Rigorous probability theory
+### Foundational Learning
+- [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) 🎓 – Interactive statistics and probability fundamentals
 - [Seeing Theory (Interactive)](https://seeing-theory.brown.edu/) 🎯 – Interactive probability visualizations
+- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer) 🎥 – Clear explanations of statistical concepts
+
+### Probability Theory
+- [MIT Introduction to Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) 🎓 – Rigorous probability theory
+- [Introduction to Probability by Blitzstein & Hwang](https://projects.iq.harvard.edu/stat110/home) 📖 – Harvard's probability textbook (free online)
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) 🎥 – Harvard's probability course lectures
+
+### Applied Statistics & Data Science
+- [Probability Theory for Data Science](https://probability4datascience.com/) 📖 – Applied probability for data science
+- [Think Stats 2e](https://greenteapress.com/thinkstats2/html/index.html) 📖 – Probability and statistics for programmers
+- [OpenIntro Statistics](https://www.openintro.org/book/os/) 📖 – Free introductory statistics textbook
+
+### Bayesian Methods
+- [Think Bayes](https://greenteapress.com/wp/think-bayes/) 📖 – Bayesian statistics with Python examples
+- [Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) 📚 – Practical Bayesian analysis
+- [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) 📖 – Modern Bayesian data analysis
+
+### Implementation & Practice
+- [Scipy Statistics Tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) 💻 – Statistical functions in Python
+- [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html) 💻 – Statistical modeling in Python
+- [R for Data Science - Statistics](https://r4ds.had.co.nz/) 📚 – Statistical analysis with R
 
 ---
 

@@ -595,23 +595,72 @@ Learn machine learning concepts through interactive visualizations and hands-on 
 ---
 
 ## 🗣️ LLMs & Generative AI
+<img 
+  width="1584" 
+  height="396" 
+  alt="LLMs & Generative AI - Large language models, transformers, prompt engineering, and generative artificial intelligence systems" 
+  title="LLMs & Generative AI: Large Language Models & AI Text Generation"
+  src="https://github.com/user-attachments/assets/0f93c141-94b8-4e96-a114-f4dcff912340"
+  loading="lazy"
+/>
 
-Large language models, transformers, and generative AI systems.
+Master large language models and generative AI systems that understand and generate human-like text. From transformer architectures and attention mechanisms to prompt engineering and fine-tuning techniques, explore the models and methods powering modern AI applications like ChatGPT, code generation, and creative writing assistants.
+
+### 📚 Foundational Learning
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) – Original transformer paper
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) – Visual transformer explanation
+- [CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/) – Stanford's comprehensive NLP course
+- [Hugging Face NLP Course](https://huggingface.co/course/) – Practical transformer training
 
 ### 🏆 Leading Open Source Models
+| Model Family | Organization | Key Features | Best For |
+|---|---|---|---|
+| [LLaMA 3](https://llama.meta.com/) | Meta | Efficient architecture, strong performance | Research, fine-tuning |
+| [Mistral 7B](https://mistral.ai/) | Mistral AI | High performance, commercial friendly | Production applications |
+| [Gemma](https://ai.google.dev/gemma) | Google | Lightweight, responsible AI | Edge deployment |
+| [Phi-3](https://azure.microsoft.com/en-us/products/phi-3) | Microsoft | Small but capable | Resource-constrained environments |
 
-- [Meta LLaMA 3](https://llama.meta.com/) – Meta's flagship open model
-- [Hugging Face Model Hub](https://huggingface.co/models) – Comprehensive model repository
-
-### 📊 Model Comparison & Resources
-
-- [LangChain Cookbook](https://python.langchain.com/docs/tutorials/) – LLM application patterns
-
-### 🛠️ Development Tools
-
-- [Ollama](https://ollama.ai/) – Local LLM deployment
-- [LocalAI](https://localai.io/) – Self-hosted OpenAI alternative
+### 🛠️ Development Platforms & Tools
+- [Hugging Face Transformers](https://huggingface.co/transformers/) – Industry-standard library for LLMs
+- [Ollama](https://ollama.ai/) – Local LLM deployment and management
+- [LM Studio](https://lmstudio.ai/) – Desktop app for running LLMs locally
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) – User-friendly LLM interface
+
+### 🎯 Prompt Engineering & Applications
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) – Comprehensive prompting techniques
+- [OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) – Best practices for prompting
+- [LangChain](https://python.langchain.com/) – Framework for LLM applications
+- [LlamaIndex](https://www.llamaindex.ai/) – Data framework for LLM apps
+
+### 🔧 Fine-tuning & Training
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) – LLM fine-tuning toolkit
+- [Unsloth](https://unsloth.ai/) – Fast and memory-efficient fine-tuning
+- [LoRA: Low-Rank Adaptation](https://arxiv.org/abs/2106.09685) – Efficient fine-tuning technique
+- [QLoRA](https://arxiv.org/abs/2305.14314) – Quantized low-rank adaptation
+
+### 📊 Evaluation & Benchmarking
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) – Model performance comparisons
+- [HELM Benchmark](https://crfm.stanford.edu/helm/) – Holistic evaluation of language models
+- [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) – Standardized evaluation framework
+- [BigBench](https://github.com/google/BIG-bench) – Comprehensive evaluation suite
+
+### 🚀 Deployment & Serving
+- [vLLM](https://vllm.readthedocs.io/) – High-throughput LLM serving
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) – NVIDIA optimized inference
+- [OpenLLM](https://github.com/bentoml/OpenLLM) – Production LLM serving platform
+- [LocalAI](https://localai.io/) – Self-hosted OpenAI alternative
+
+### 🎨 Multimodal & Specialized Models
+- [CLIP](https://github.com/openai/CLIP) – Vision-language understanding
+- [DALL-E](https://openai.com/dall-e-3) – Text-to-image generation
+- [Whisper](https://github.com/openai/whisper) – Speech recognition and transcription
+- [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) – Code generation and understanding
+
+### 📖 Research & Advanced Topics
+- [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) – Understanding model scaling
+- [Constitutional AI](https://arxiv.org/abs/2212.08073) – Training helpful, harmless AI
+- [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401) – Combining retrieval with generation
+- [In-Context Learning](https://arxiv.org/abs/2005.14165) – Few-shot learning capabilities
 
 ---
 

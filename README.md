@@ -48,14 +48,20 @@ This library is organized from foundational concepts to advanced applications. S
   loading="lazy"
 />
 
-Start here for the mathematical foundations of machine learning and AI. These carefully selected resources build your understanding of linear algebra, statistics, probability, and calculus—the essential math skills that power every ML algorithm and AI system.
+Build the mathematical foundation essential for machine learning success. Mathematics forms the bedrock of AI—from linear algebra powering neural networks to statistics enabling data analysis and calculus driving optimization algorithms. Master these core concepts through proven textbooks, interactive courses, and practical resources designed to bridge theory with real-world ML applications.
 
 | Resource | Type | Description |
 |---|---|---|
 | [Mathematics for Machine Learning](https://mml-book.github.io/) | 📖 Book | Comprehensive mathematical foundations for ML |
+| [Khan Academy Mathematics](https://www.khanacademy.org/math) | 🎓 Course | Interactive math courses from basics to advanced |
+| [3Blue1Brown Mathematics Playlist](https://www.youtube.com/c/3blue1brown) | 🎥 Video | Visual mathematics explanations for intuitive understanding |
+| [MIT Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | 🎓 Course | Discrete mathematics and probability for CS |
 | [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) | 📖 Book | Classic statistical learning theory |
 | [Introduction to Statistical Learning](https://www.statlearning.com/) | 📖 Book | Beginner-friendly statistical learning |
 | [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | 📖 Book | Bishop's comprehensive ML textbook |
+| [Probability and Statistics for Engineers](https://www.probabilitycourse.com/) | 📚 Reference | Complete probability and statistics resource |
+| [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | 🎓 Course | Coursera course on mathematical reasoning |
+| [Math Prerequisites for ML CheatSheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-algebra-calculus) | 📋 Reference | Stanford's quick math reference for ML |
 | [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/) | 📖 Book | Interview prep with mathematical focus |
 
 ---

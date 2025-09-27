@@ -234,20 +234,49 @@ Master the algorithms and techniques that power intelligent systems. Machine lea
 ---
 
 ## 🧠 Deep Learning
+<img 
+  width="1584" 
+  height="396" 
+  alt="Deep Learning - Neural networks, deep architectures, transformers, and modern AI systems for computer vision and natural language processing" 
+  title="Deep Learning: Neural Networks & Modern AI Architectures"
+  src="https://github.com/user-attachments/assets/5045628d-f353-4a72-b9ee-fe05907a4606"
+  loading="lazy"
+/>
 
-Neural networks, deep architectures, and modern AI systems.
+Neural networks with multiple layers unlock artificial intelligence's most powerful capabilities. Deep learning drives breakthrough applications in computer vision, natural language processing, and generative AI. Master convolutional networks, transformers, and modern architectures that power everything from image recognition to large language models.
 
-### 📖 Essential Books & Courses
-
+### Foundational Learning
 - [Deep Learning – Goodfellow, Bengio, Courville](https://www.deeplearningbook.org/) – Definitive deep learning textbook
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 🎥 – Karpathy's hands-on neural networks
-- [Full Stack Deep Learning](https://fullstackdeeplearning.com/) 🎓 – Production ML systems
-- [Deep Learning for Coders](https://course.fast.ai/) 🎓 – Practical deep learning with fast.ai
+- [3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 🎥 – Visual neural network explanations
 
-### 🏫 Specialized Courses
-
+### Comprehensive Courses
 - [DeepLearning.AI Courses](https://www.deeplearning.ai/) – Andrew Ng's deep learning specialization
+- [Deep Learning for Coders](https://course.fast.ai/) 🎓 – Practical deep learning with fast.ai
+- [CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/) – Stanford's computer vision course
+- [CS224n: Natural Language Processing](http://web.stanford.edu/class/cs224n/) – Stanford's NLP with deep learning
+
+### Modern Architectures
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) – Original transformer paper
 - [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) – Transformers and NLP
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) – Visual transformer explanation
+- [Dive into Deep Learning](https://d2l.ai/) – Interactive deep learning book
+
+### Practical Implementation
+- [PyTorch Tutorials](https://pytorch.org/tutorials/) – Official PyTorch learning resources
+- [TensorFlow Deep Learning](https://www.tensorflow.org/learn) – TensorFlow guides and tutorials
+- [Keras Documentation](https://keras.io/guides/) – High-level neural network API
+- [Papers with Code](https://paperswithcode.com/) – Latest research with implementations
+
+### Production & MLOps
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/) 🎓 – Production ML systems
+- [Made With ML](https://madewithml.com/) – End-to-end ML development
+- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) – Production ML workflows
+
+### Specialized Topics
+- [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) – GANs, VAEs, and generative models
+- [Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) – RL theory and applications
+- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) – CV fundamentals and deep learning
 
 ---
 

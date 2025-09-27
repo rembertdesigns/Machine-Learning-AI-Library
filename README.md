@@ -329,30 +329,65 @@ Learn how algorithms optimize behavior through reward signals and environmental 
 ---
 
 ## 💻 Coding Resources
+<img 
+  width="1584" 
+  height="396" 
+  alt="Coding Resources - Development environments, programming tools, and platforms for machine learning and AI development" 
+  title="Coding Resources: ML Development Tools & Programming Platforms"
+  src="https://github.com/user-attachments/assets/368224b3-0dc6-431b-a8d8-d3985b77f809"
+  loading="lazy"
+/>
 
-Development environments, tools, and platforms for ML development.
+Essential development environments, programming tools, and platforms for machine learning implementation. From cloud-based notebooks and version control to specialized ML frameworks and deployment tools, these resources provide the technical foundation needed to build, train, and deploy machine learning models effectively.
 
 ### 🛠️ Development Platforms
-
 | Platform | Description | Best For |
 |---|---|---|
 | [Kaggle Notebooks](https://www.kaggle.com/code) | Free GPU/TPU notebooks with datasets | Competitions & learning |
 | [Google Colab](https://colab.research.google.com/) | Free Jupyter notebooks with GPU | Prototyping & education |
 | [Jupyter Notebooks](https://jupyter.org/) | Interactive computing environment | Local development |
+| [Deepnote](https://deepnote.com/) | Collaborative data science notebooks | Team collaboration |
+| [Databricks](https://databricks.com/) | Unified analytics platform | Enterprise ML workflows |
+
+### Programming Languages & Environments
+- [Python.org](https://www.python.org/) – Primary ML programming language
+- [Anaconda](https://www.anaconda.com/) – Python distribution for data science
+- [PyCharm](https://www.jetbrains.com/pycharm/) – Professional Python IDE
+- [VS Code](https://code.visualstudio.com/) – Lightweight editor with ML extensions
+- [R for Data Science](https://r4ds.had.co.nz/) – R programming for statistics
+
+### Version Control & Collaboration
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/) – Version control fundamentals
+- [GitHub](https://github.com/) – Code hosting and collaboration
+- [DVC (Data Version Control)](https://dvc.org/) – Versioning for ML projects
+- [MLflow](https://mlflow.org/) – ML lifecycle management
 
 ### 🤖 AI-Powered Development
-
 - [GitHub Copilot](https://github.com/features/copilot) – AI pair programming
 - [Tabnine](https://www.tabnine.com/) – AI code completion
-- [OpenAI Codex](https://openai.com/blog/openai-codex) – Natural language to code
+- [Cursor](https://cursor.sh/) – AI-powered code editor
+- [Replit](https://replit.com/) – Online IDE with AI assistance
 
-### 📊 ML-Specific Tools
+### 📊 ML Libraries & Frameworks
+- [Scikit-learn](https://scikit-learn.org/) – Essential ML library for Python
+- [TensorFlow](https://www.tensorflow.org/) – Google's ML framework
+- [PyTorch](https://pytorch.org/) – Facebook's deep learning framework
+- [Keras](https://keras.io/) – High-level neural network API
+- [Pandas](https://pandas.pydata.org/) – Data manipulation and analysis
+- [NumPy](https://numpy.org/) – Numerical computing foundation
 
+### Cloud Platforms
+- [AWS SageMaker](https://aws.amazon.com/sagemaker/) – Amazon's ML platform
+- [Google Cloud AI](https://cloud.google.com/ai) – Google's ML services
+- [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) – Microsoft's ML platform
+- [Hugging Face](https://huggingface.co/) – NLP models and datasets
+
+### Specialized Tools
 - [Papers With Code](https://paperswithcode.com/) – Research papers with implementations
-- [LangChain](https://python.langchain.com/docs/get_started/introduction) – LLM application framework
-- [Docker](https://www.docker.com/) – Containerization for ML
-- [DataRobot](https://www.datarobot.com/) – AutoML platform
-- [LandingLens](https://landing.ai/platform/) – No-code computer vision
+- [Weights & Biases](https://wandb.ai/) – Experiment tracking and visualization
+- [Streamlit](https://streamlit.io/) – Web app framework for ML
+- [Gradio](https://gradio.app/) – Quick ML model interfaces
+- [Docker](https://www.docker.com/) – Containerization for reproducible environments
 
 ---
 

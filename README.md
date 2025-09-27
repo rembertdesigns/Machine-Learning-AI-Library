@@ -728,23 +728,6 @@ Leverage AI-powered educational technology to create, enhance, and deliver machi
 
 ---
 
-## 🏭 Miscellaneous/Industry
-
-Specialized tools and platforms for specific industries and applications.
-
-### 🏢 Enterprise AI Platforms
-
-- [Môveo AI](https://moveo.ai/) – Conversational AI platform
-- [360Learning](https://360learning.com/) – Collaborative learning platform
-- [Lityx](https://lityx.com/) – Business intelligence with AI
-
-### 🌐 Knowledge Systems
-
-- [Neo4j for RAG](https://neo4j.com/developer/graph-data-science/) – Knowledge graphs for LLMs
-- [Duckietown](https://www.duckietown.org/) – Autonomous systems education
-
----
-
 ## 🤝 Contributing
 
 I welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to:

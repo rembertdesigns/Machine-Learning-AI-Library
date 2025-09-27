@@ -726,12 +726,6 @@ Leverage AI-powered educational technology to create, enhance, and deliver machi
 - [Google Colab](https://colab.research.google.com/) – Cloud-based ML education platform
 - [Kaggle Learn](https://www.kaggle.com/learn) – Free micro-courses in data science
 
-### 📈 Analytics & Progress Tracking
-- [Learning Analytics](https://learninganalytics.net/) – Educational data analysis
-- [Mixpanel for Education](https://mixpanel.com/) – Student engagement analytics
-- [Google Analytics for Education](https://analytics.google.com/) – Course performance tracking
-- [Hotjar](https://hotjar.com/) – User behavior analysis for online courses
-
 ---
 
 ## 🏭 Miscellaneous/Industry

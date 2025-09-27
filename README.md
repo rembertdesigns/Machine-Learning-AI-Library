@@ -39,8 +39,16 @@ This library is organized from foundational concepts to advanced applications. S
 ---
 
 ## 🔢 Mathematics Foundations
+<img 
+  width="1584" 
+  height="396" 
+  alt="Mathematics Foundations - Essential mathematical concepts, statistical learning theory, and foundational resources for machine learning and AI development" 
+  title="Mathematics Foundations: Essential Math Concepts & Statistical Learning for AI"
+  src="https://github.com/user-attachments/assets/ad052f2d-bc30-47f5-a0e6-bbc75b0192eb"
+  loading="lazy"
+/>
 
-Essential mathematical concepts underlying machine learning and AI.
+Start here for the mathematical foundations of machine learning and AI. These carefully selected resources build your understanding of linear algebra, statistics, probability, and calculus—the essential math skills that power every ML algorithm and AI system.
 
 | Resource | Type | Description |
 |---|---|---|

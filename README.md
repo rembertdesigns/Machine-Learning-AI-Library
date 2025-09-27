@@ -472,28 +472,63 @@ Build machine learning systems with battle-tested frameworks and specialized lib
 ---
 
 ## 📚 Books/Blogs
+<img 
+  width="1584" 
+  height="396" 
+  alt="Books & Blogs - Essential machine learning textbooks, AI literature, and educational resources for deep understanding" 
+  title="Books & Blogs: ML Textbooks & Educational Reading Resources"
+  src="https://github.com/user-attachments/assets/9a523e74-f795-4a43-baa2-fff2a548d254"
+  loading="lazy"
+/>
 
-Curated reading list for deep understanding and practical insights.
+Deepen your understanding through carefully selected books, blogs, and educational content from leading researchers and practitioners. These resources span foundational theory to cutting-edge applications, providing comprehensive knowledge for mastering machine learning concepts, staying current with research developments, and understanding real-world implementation challenges.
 
-### 📖 Essential Textbooks
+### 📖 Foundational Textbooks
+| Book | Authors | Focus Area | Level |
+|---|---|---|---|
+| [AI: A Modern Approach](https://aima.cs.berkeley.edu/) | Russell & Norvig | General AI Concepts | Intermediate |
+| [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow, Bengio, Courville | Deep Learning Theory | Advanced |
+| [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Géron | Practical Implementation | Beginner-Intermediate |
+| [Pattern Recognition and ML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | Statistical Learning | Advanced |
+| [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) | Hastie, Tibshirani, Friedman | Statistical Methods | Advanced |
 
-| Book | Authors | Focus Area |
-|---|---|---|
-| [AI: A Modern Approach](https://aima.cs.berkeley.edu/) | Russell & Norvig | General AI |
-| [Deep Learning](https://www.deeplearningbook.org/) | Goodfellow et al. | Deep Learning Theory |
-| [Hands-On ML](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Géron | Practical ML |
-| [Pattern Recognition and ML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | Statistical ML |
+### 📚 Practical & Applied Books
+- [Python Machine Learning](https://sebastianraschka.com/books/) by Sebastian Raschka – Practical ML with Python
+- [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppmann – Systems for ML at scale
+- [Building Machine Learning Powered Applications](https://mlpowered.com/) by Emmanuel Ameisen – End-to-end ML projects
+- [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/) by Lakshmanan et al. – Production ML patterns
+
+### 🌐 Essential Online Books & Guides
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen's accessible deep learning introduction
+- [Dive into Deep Learning](https://d2l.ai/) – Interactive deep learning with code examples
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) – Understanding model decisions
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/) – Concise ML overview by Andriy Burkov
 
 ### 🔗 Must-Read Blogs & Articles
+- [Jay Alammar's Blog](https://jalammar.github.io/) – Visual explanations of transformers and NLP
+- [Distill.pub](https://distill.pub/) – Interactive machine learning research
+- [Chip Huyen's Blog](https://huyenchip.com/blog/) – ML engineering and production insights
+- [Christopher Olah's Blog](https://colah.github.io/) – Deep learning visualization and understanding
+- [Sebastian Ruder's Blog](https://ruder.io/) – NLP research and trends
 
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) – Visual guide to attention mechanisms
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – Michael Nielsen's online book
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) – Comprehensive prompting techniques
+### 🏭 Industry & Production
+- [Machine Learning Engineering](https://huyenchip.com/ml-interviews-book/) by Chip Huyen – Production ML systems
+- [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/) by Provost & Fawcett – Business applications
+- [Reliable Machine Learning](https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/) – Production ML best practices
+- [ML Engineering with Python](https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259/) – End-to-end ML workflows
 
-### 🏭 Industry & Practice
+### 📰 News & Research Updates
+- [The Gradient](https://thegradient.pub/) – AI research magazine with accessible articles
+- [Towards Data Science](https://towardsdatascience.com/) – Medium publication with practical tutorials
+- [Papers With Code Blog](https://paperswithcode.com/blog/) – Latest research with implementations
+- [AI Research](https://airesearch.com/) – Weekly research roundups and analysis
+- [The Batch by deeplearning.ai](https://www.deeplearning.ai/the-batch/) – Weekly AI news newsletter
 
-- [AI Engineering](https://huyenchip.com/ml-interviews-book/) – Chip Huyen's practical guide
-- [Data Science for Business](https://www.oreilly.com/library/view/data-science-for/9781449374273/) – Business applications
+### 📖 Specialized Topics
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/) by Kevin Murphy – Advanced probabilistic methods
+- [Information Theory, Inference & Learning](http://www.inference.org.uk/mackay/itila/) by David MacKay – Mathematical foundations
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by Boyd & Vandenberghe – Optimization theory
+- [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon Prince – CV fundamentals
 
 ---
 

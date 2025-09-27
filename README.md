@@ -72,8 +72,29 @@ Start here for the mathematical foundations of machine learning and AI. These ca
 
 Vectors, matrices, and transformations form the mathematical backbone of machine learning. Linear algebra concepts like eigenvalues, matrix decomposition, and vector spaces are essential for understanding neural networks, dimensionality reduction, and optimization algorithms that power modern AI systems.
 
+### Foundational Learning
 - [Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🎥 – Visual and intuitive approach to linear algebra
+- [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) 🎓 – Step-by-step tutorials with practice problems
+- [MIT 18.06 Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) 🎥 – Complete MIT course lectures
+- [Linear Algebra by Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESF4dEHGoOJk2o1MiJEO3qX) 🎥 – Comprehensive lecture series
+
+### Interactive & Visual Learning
+- [Immersive Linear Algebra](http://immersivemath.com/ila/) 💻 – Interactive web book with visualizations
+- [Linear Algebra Explained Visually](https://setosa.io/ev/eigenvectors-and-eigenvalues/) 🎨 – Interactive eigenvalue/eigenvector visualization
+
+### Textbooks & References
+- [Introduction to Linear Algebra by Gilbert Strang](http://math.mit.edu/~gs/linearalgebra/) 📖 – MIT's foundational textbook with clear explanations
+- [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/) 📖 – Conceptual approach focusing on understanding over computation
+- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) 📖 – Quick reference for matrix identities and formulas
+
+### Machine Learning Applications
+- [Linear Algebra for ML CheatSheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-linear-algebra) 📋 – Quick reference for ML applications
+- [Principal Component Analysis Explained](https://www.youtube.com/watch?v=FgakZw6K1QQ) 🎥 – PCA for dimensionality reduction
 - [Singular Value Decomposition Explained](https://www.youtube.com/watch?v=P5mlg91as1c) 🎥 – Deep dive into SVD
+- [Matrix Factorization Techniques](https://www.youtube.com/watch?v=ZspR5PZemcs) 🎥 – Essential for recommender systems
+
+### Implementation & Practice
+- [NumPy Linear Algebra Tutorial](https://numpy.org/doc/stable/reference/routines.linalg.html) 💻 – Implementing linear algebra in Python
 
 ---
 

@@ -392,42 +392,82 @@ Essential development environments, programming tools, and platforms for machine
 ---
 
 ## 🔧 Frameworks/Libraries
+<img 
+  width="1584" 
+  height="396" 
+  alt="Frameworks & Libraries - Essential ML frameworks, deep learning libraries, and programming tools for machine learning development" 
+  title="Frameworks & Libraries: ML Development Tools & Programming Libraries"
+  src="https://github.com/user-attachments/assets/ca011f2f-e690-4a18-8a78-1c5a809a8997"
+  loading="lazy"
+/>
 
-Essential tools and libraries for machine learning development.
+Build machine learning systems with battle-tested frameworks and specialized libraries. From foundational tools like TensorFlow and PyTorch for deep learning to domain-specific libraries for computer vision, NLP, and data processing, these resources provide the building blocks for implementing ML algorithms and deploying models in production environments.
 
-### 🐍 Python Ecosystem
+### 🐍 Core Python ML Stack
+| Library | Category | Description | Best For |
+|---|---|---|---|
+| [NumPy](https://numpy.org/) | Foundation | Numerical computing fundamentals | Array operations, linear algebra |
+| [Pandas](https://pandas.pydata.org/) | Data Processing | Data manipulation and analysis | Data cleaning, exploration |
+| [Matplotlib](https://matplotlib.org/) | Visualization | Comprehensive plotting library | Static plots, publication figures |
+| [Seaborn](https://seaborn.pydata.org/) | Visualization | Statistical data visualization | Statistical plots, attractive defaults |
+| [Plotly](https://plotly.com/python/) | Visualization | Interactive plotting library | Interactive dashboards, web apps |
 
-| Library | Category | Description |
-|---|---|---|
-| [TensorFlow](https://www.tensorflow.org/) | Deep Learning | Google's ML framework |
-| [PyTorch](https://pytorch.org/) | Deep Learning | Facebook's research-focused framework |
-| [Scikit-learn](https://scikit-learn.org/) | Traditional ML | User-friendly ML library |
-| [Keras](https://keras.io/) | Deep Learning | High-level neural networks API |
-| **Computer Vision** | | [OpenCV](https://opencv.org/) |
-| **NLP** | | [NLTK](https://www.nltk.org/), [SpaCy](https://spacy.io/), [Hugging Face Transformers](https://huggingface.co/transformers/) |
-| **Topic Modeling** | | [Gensim](https://radimrehurek.com/gensim/) |
-| **Gradient Boosting** | | [XGBoost](https://xgboost.readthedocs.io/), [CatBoost](https://catboost.ai/) |
-| **Chemistry** | | [DeepChem](https://deepchem.io/) |
-| **GPU Computing** | | [RAPIDS](https://rapids.ai/) |
+### 🧠 Deep Learning Frameworks
+| Framework | Developed By | Description | Strengths |
+|---|---|---|---|
+| [TensorFlow](https://www.tensorflow.org/) | Google | Comprehensive ML platform | Production deployment, mobile/edge |
+| [PyTorch](https://pytorch.org/) | Meta | Research-focused framework | Dynamic graphs, research flexibility |
+| [Keras](https://keras.io/) | Community | High-level neural networks API | Beginner-friendly, rapid prototyping |
+| [JAX](https://jax.readthedocs.io/) | Google | NumPy-compatible ML library | Functional programming, performance |
 
-### 🔗 LLM & Chain Libraries
+### 🎯 Traditional Machine Learning
+- [Scikit-learn](https://scikit-learn.org/) – Comprehensive ML library with consistent API
+- [XGBoost](https://xgboost.readthedocs.io/) – Gradient boosting framework
+- [LightGBM](https://lightgbm.readthedocs.io/) – Microsoft's gradient boosting
+- [CatBoost](https://catboost.ai/) – Yandex's gradient boosting for categorical features
+- [Optuna](https://optuna.org/) – Hyperparameter optimization framework
 
-- [LangChain](https://python.langchain.com/) – LLM application development
+### 👁️ Computer Vision
+- [OpenCV](https://opencv.org/) – Computer vision and image processing
+- [Pillow (PIL)](https://pillow.readthedocs.io/) – Python imaging library
+- [Albumentations](https://albumentations.ai/) – Image augmentation library
+- [YOLO](https://ultralytics.com/) – Real-time object detection
+- [Detectron2](https://detectron2.readthedocs.io/) – Facebook's object detection platform
+
+### 💬 Natural Language Processing
+- [NLTK](https://www.nltk.org/) – Natural language toolkit
+- [SpaCy](https://spacy.io/) – Industrial-strength NLP
+- [Hugging Face Transformers](https://huggingface.co/transformers/) – State-of-the-art NLP models
+- [Gensim](https://radimrehurek.com/gensim/) – Topic modeling and document similarity
+- [TextBlob](https://textblob.readthedocs.io/) – Simple text processing
+
+### 🔗 LLM & AI Applications
+- [LangChain](https://python.langchain.com/) – LLM application development framework
 - [LangGraph](https://langchain-ai.github.io/langgraph/) – Graph-based LLM workflows
-- [LangSmith](https://smith.langchain.com/) – LLM application monitoring
-- [Haystack](https://haystack.deepset.ai/) – NLP framework for search
+- [Haystack](https://haystack.deepset.ai/) – NLP framework for search and QA
+- [LlamaIndex](https://www.llamaindex.ai/) – Data framework for LLM applications
+- [Guidance](https://github.com/microsoft/guidance) – Programming language for LLMs
 
-### 🔍 Interpretability
+### 🔍 Model Interpretability & MLOps
+- [SHAP](https://github.com/slundberg/shap) – Model explanation framework
+- [LIME](https://github.com/marcotcr/lime) – Local interpretable model explanations
+- [MLflow](https://mlflow.org/) – ML lifecycle management
+- [Weights & Biases](https://wandb.ai/) – Experiment tracking and visualization
+- [DVC](https://dvc.org/) – Data version control for ML
 
-- [InterpretML](https://interpret.ml/) – Model interpretability
-- [SHAP](https://github.com/slundberg/shap) – SHapley Additive exPlanations
+### ⚡ High-Performance Computing
+- [RAPIDS](https://rapids.ai/) – GPU-accelerated data science
+- [Dask](https://dask.org/) – Parallel computing in Python
+- [Ray](https://ray.io/) – Distributed computing framework
+- [Modin](https://modin.readthedocs.io/) – Distributed pandas
+- [CuPy](https://cupy.dev/) – NumPy-compatible library for GPU
 
-### 🌍 Other Languages
-
-- **JavaScript**: [Brain.js](https://brain.js.org/)
-- **Go**: [Gonum](https://www.gonum.org/), [Gorgonia](https://gorgonia.org/)
-- **Rust**: [RustLearn](https://github.com/maciejkula/rustlearn), [Rusty-machine](https://github.com/AtheMathmo/rusty-machine)
-- **Java**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/), [Smile](https://haifengl.github.io/)
+### 🌍 Other Programming Languages
+- **R**: [Caret](https://topepo.github.io/caret/), [Tidymodels](https://www.tidymodels.org/), [MLR3](https://mlr3.mlr-org.com/)
+- **JavaScript**: [TensorFlow.js](https://www.tensorflow.org/js), [Brain.js](https://brain.js.org/)
+- **Julia**: [Flux.jl](https://fluxml.ai/), [MLJ.jl](https://alan-turing-institute.github.io/MLJ.jl/)
+- **Java**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/), [Deeplearning4j](https://deeplearning4j.konduit.ai/)
+- **C++**: [PyTorch C++](https://pytorch.org/cppdocs/), [TensorFlow C++](https://www.tensorflow.org/api_docs/cc)
 
 ---
 

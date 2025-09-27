@@ -281,14 +281,50 @@ Neural networks with multiple layers unlock artificial intelligence's most power
 ---
 
 ## 🎮 Reinforcement Learning
+<img 
+  width="1584" 
+  height="396" 
+  alt="Reinforcement Learning - Learning algorithms, reward-based optimization, and decision-making systems in machine learning" 
+  title="Reinforcement Learning: ML Algorithms & Decision-Making Systems"
+  src="https://github.com/user-attachments/assets/733f9063-6260-43f6-813c-555b722d009f"
+  loading="lazy"
+/>
 
-Learning through interaction and decision making.
+Learn how algorithms optimize behavior through reward signals and environmental feedback. Reinforcement learning solves sequential decision problems where systems learn optimal actions through trial and error. Master the mathematical foundations of Q-learning, policy gradients, and value functions that power game-playing AI, robotics, and recommendation systems.
 
-- [Practical RL Course](https://github.com/yandexdataschool/Practical_RL) 📚 – Hands-on RL implementations
-- [CARLA Simulator](https://carla.org/) 🚗 – Autonomous driving simulation
-- [Tensorforce](https://tensorforce.readthedocs.io/) 🔧 – RL framework
-- [Ray RLlib](https://docs.ray.io/en/latest/rllib/index.html) 🔧 – Scalable RL library
+### Foundational Learning
 - [RL: An Introduction – Sutton & Barto](http://incompleteideas.net/book/the-book-2nd.html) 📖 – The RL bible
+- [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) 🎓 – Berkeley's comprehensive RL course
+- [OpenAI Spinning Up](https://spinningup.openai.com/) 📚 – RL from first principles
+- [David Silver's RL Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) 🎥 – DeepMind's RL lectures
+
+### Practical Implementation
+- [Practical RL Course](https://github.com/yandexdataschool/Practical_RL) 📚 – Hands-on RL implementations
+- [Stable Baselines3](https://stable-baselines3.readthedocs.io/) 🔧 – Production-ready RL algorithms
+- [Ray RLlib](https://docs.ray.io/en/latest/rllib/index.html) 🔧 – Scalable RL library
+- [Tensorforce](https://tensorforce.readthedocs.io/) 🔧 – RL framework
+
+### Environment Platforms
+- [OpenAI Gym](https://gymnasium.farama.org/) 🎮 – Standard RL environment interface
+- [Unity ML-Agents](https://unity.com/products/machine-learning-agents) 🎮 – RL in Unity environments
+- [CARLA Simulator](https://carla.org/) 🚗 – Autonomous driving simulation
+- [ALE: Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) 🎮 – Atari game environments
+
+### Advanced Topics
+- [Multi-Agent RL](https://github.com/oxwhirl/pymarl) 🤖 – Multiple agent coordination
+- [Meta-Learning in RL](https://arxiv.org/abs/1611.05763) 📄 – Learning to learn quickly
+- [Hierarchical RL](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/) 📄 – Multi-level decision making
+- [Safe RL](https://arxiv.org/abs/1801.08757) 📄 – Constraint-aware learning
+
+### Interactive Learning
+- [RL Visualizations](https://rlvis.github.io/) 💻 – Interactive RL concept exploration
+- [Q-Learning Playground](https://cs.stanford.edu/people/karpathy/reinforcejs/) 🎮 – Browser-based RL experiments
+- [RL Baselines Zoo](https://github.com/DLR-RM/rl-baselines3-zoo) 🔧 – Pre-trained RL models
+
+### Research & Applications
+- [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) 📄 – Curated research papers
+- [RL in Real World](https://arxiv.org/abs/1909.12397) 📄 – Practical RL deployment challenges
+- [AlphaGo Paper](https://www.nature.com/articles/nature16961) 📄 – Breakthrough game-playing AI
 
 ---
 

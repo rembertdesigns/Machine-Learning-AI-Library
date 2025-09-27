@@ -190,21 +190,46 @@ Statistical thinking and probability theory form the foundation of data science 
 ---
 
 ## 🤖 Machine Learning
+<img 
+  width="1584" 
+  height="396" 
+  alt="Machine Learning - Core ML algorithms, supervised learning, unsupervised learning, and practical machine learning applications" 
+  title="Machine Learning: Core Algorithms & Practical ML Applications"
+  src="https://github.com/user-attachments/assets/dcdff364-3c07-4991-9849-9c1aab32a558"
+  loading="lazy"
+/>
 
-Core machine learning concepts, algorithms, and practical applications.
+Master the algorithms and techniques that power intelligent systems. Machine learning transforms data into insights through supervised learning, unsupervised learning, and reinforcement learning approaches. From regression and classification to clustering and neural networks, these resources guide you through both theoretical understanding and hands-on implementation of ML systems.
 
-### 🎓 Courses
-
+### Foundational Courses
+- [Machine Learning Course by Andrew Ng](https://www.coursera.org/learn/machine-learning) – Stanford's foundational ML course
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course) – Google's practical ML intro
 - [Fast.ai Practical Machine Learning](https://course.fast.ai/) – Top-down practical approach
+- [MIT Introduction to Machine Learning](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) – MIT's comprehensive course
+
+### Interactive Learning
 - [Kaggle Learn](https://www.kaggle.com/learn) – Micro-courses with hands-on practice
 - [AI For Everyone – Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) – Non-technical AI overview
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) – Practical tutorials and guides
 
-### 📚 Resources
+### Theoretical Foundations
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) – Advanced statistical learning theory
+- [Foundations of Machine Learning – Mohri et al.](https://cs.nyu.edu/~mohri/mlbook/) – Theoretical foundations
+- [Pattern Recognition and Machine Learning – Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) – Comprehensive ML textbook
 
-- [Foundations of Machine Learning – Mohri et al.](https://cs.nyu.edu/~mohri/mlbook/) 📖 – Theoretical foundations
-- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) 📚 – Practical ML with Python
-- [Approaching (Almost) Any ML Problem](https://github.com/abhishekkrthakur/approachingalmost) 📖 – Practical problem-solving guide
+### Practical Implementation
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) – Practical ML with Python
+- [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) – Practical ML with Scikit-Learn and TensorFlow
+- [Approaching (Almost) Any ML Problem](https://github.com/abhishekkrthakur/approachingalmost) – Practical problem-solving guide
+
+### Specialized Topics
+- [CS229 Machine Learning Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/) – Stanford's ML reference sheets
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) – Understanding ML model decisions
+- [Feature Engineering and Selection](http://www.feat.engineering/) – Data preprocessing techniques
+
+### Video Learning
+- [3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) – Visual neural network explanations
+- [StatQuest Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) – Clear ML concept explanations
 
 ---
 

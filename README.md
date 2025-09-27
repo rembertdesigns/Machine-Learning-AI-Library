@@ -533,23 +533,64 @@ Deepen your understanding through carefully selected books, blogs, and education
 ---
 
 ## 🎯 Interactive Demos
+<img 
+  width="1584" 
+  height="396" 
+  alt="Interactive Demos - Hands-on machine learning visualizations, neural network playgrounds, and educational AI demonstrations" 
+  title="Interactive Demos: ML Visualizations & Educational AI Tools"
+  src="https://github.com/user-attachments/assets/bd613132-211f-4012-bb49-e3a7ea3adaa6"
+  loading="lazy"
+/>
 
-Hands-on learning through interactive visualizations and demos.
+Learn machine learning concepts through interactive visualizations and hands-on demonstrations. These tools let you experiment with algorithms, explore model architectures, and understand complex AI concepts through direct manipulation and real-time feedback, making abstract mathematical concepts tangible and intuitive.
 
-### 🔍 Model Explanations
+### 🔍 Neural Network Visualizations
+- [Neural Network Playground](https://playground.tensorflow.org/) – Experiment with neural network architectures
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) – Interactive convolutional neural network visualization
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) – Understanding transformer architecture visually
+- [Neural Network 3D Visualization](https://tensorspace.org/) – 3D neural network architecture explorer
 
-- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) – Interactive CNN visualization
-- [Transformer Playground](https://transformer.huggingface.co/) – Explore transformer architecture
-- [Neural Network Playground](https://playground.tensorflow.org/) – Experiment with neural networks
+### 🤖 Algorithm Demonstrations
+- [Clustering Playground](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html) – Compare clustering algorithms
+- [Decision Tree Visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) – Interactive decision tree explanation
+- [SVM Interactive Demo](https://cs.stanford.edu/people/karpathy/svmjs/demo/) – Support Vector Machine visualization
+- [K-Means Clustering Demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) – Interactive K-means algorithm
 
-### 🎓 Learning Tools
+### 📊 Data Science Tools
+- [Seeing Theory](https://seeing-theory.brown.edu/) – Interactive probability and statistics
+- [Explorable Explanations](https://explorabl.es/) – Interactive data science concepts
+- [Observable Notebooks](https://observablehq.com/) – Interactive data visualization platform
+- [Streamlit Gallery](https://streamlit.io/gallery) – Interactive ML app examples
 
-- [Prompt Engineering Tutorial](https://learnprompting.org/) – Interactive prompt engineering
-- [RL Flappy Bird Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) – Deep Q-Learning visualization
+### 🎮 Reinforcement Learning
+- [RL Playground](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) – Deep Q-Learning Flappy Bird demo
+- [OpenAI Gym Visualizations](https://gym.openai.com/) – RL environment demonstrations
+- [Q-Learning Maze Demo](https://cs.stanford.edu/people/karpathy/reinforcejs/) – Interactive Q-learning examples
+- [Policy Gradient Visualization](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html) – RL policy visualization
 
-### 🎨 Creative AI
+### 🗣️ Natural Language Processing
+- [Attention Visualization](https://transformer.huggingface.co/) – Transformer attention patterns
+- [Word2Vec Visualization](https://projector.tensorflow.org/) – Word embedding explorer
+- [BERT Visualization](https://github.com/jessevig/bertviz) – BERT attention head analysis
+- [Language Model Playground](https://beta.openai.com/playground) – GPT model experimentation
 
-- [Midjourney](https://www.midjourney.com/) – AI image generation
+### 🖼️ Computer Vision Demos
+- [ConvNetJS Demos](https://cs.stanford.edu/people/karpathy/convnetjs/) – Browser-based computer vision
+- [Image Classification Demo](https://teachablemachine.withgoogle.com/) – Train your own image classifier
+- [Object Detection Demo](https://cocodataset.org/#detection-eval) – Real-time object detection
+- [Style Transfer Demo](https://reiinakano.com/arbitrary-image-stylization-tfjs/) – Neural style transfer
+
+### 🎨 Generative AI Exploration
+- [GAN Lab](https://poloclub.github.io/ganlab/) – Interactive GAN training visualization
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) – StyleGAN face generation
+- [ArtBreeder](https://www.artbreeder.com/) – Collaborative AI art creation
+- [RunwayML](https://runwayml.com/) – Creative AI tools and experiments
+
+### 📚 Educational Platforms
+- [Distill.pub](https://distill.pub/) – Interactive machine learning research articles
+- [Explained Visually](https://setosa.io/ev/) – Visual explanations of complex concepts
+- [Machine Learning for Artists](https://ml4a.github.io/) – Creative applications of ML
+- [AI Education Project](https://www.aieducation.org/) – Interactive AI learning modules
 
 ---
 

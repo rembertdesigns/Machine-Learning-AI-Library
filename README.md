@@ -99,13 +99,48 @@ Vectors, matrices, and transformations form the mathematical backbone of machine
 ---
 
 ## 📈 Calculus & Optimization
+<img 
+  width="1584" 
+  height="396" 
+  alt="Calculus & Optimization - Mathematical optimization techniques, derivatives, gradients, and optimization algorithms essential for machine learning" 
+  title="Calculus & Optimization: Mathematical Optimization for Machine Learning & AI"
+  src="https://github.com/user-attachments/assets/e8e1d3a2-938b-45da-ade4-b02efe3c4999"
+  loading="lazy"
+/>
 
-Understanding optimization is crucial for machine learning algorithms.
+Derivatives, gradients, and optimization algorithms drive the learning process in machine learning models. Understanding calculus concepts like chain rule, partial derivatives, and gradient descent is fundamental to neural network training, parameter optimization, and the mathematical principles behind how AI systems learn and improve.
 
+### Single Variable Calculus
 - [Essence of Calculus by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 🎥 – Visual calculus fundamentals
 - [MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) 🎓 – MIT's comprehensive calculus course
-- [Numerical Methods Primer](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) 📚 – Practical numerical computation
+- [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1) 🎥 – Interactive single variable calculus lessons
+
+### Multivariable Calculus
+- [MIT Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) 🎓 – Essential for understanding gradients and partial derivatives
+- [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) 🎥 – Interactive lessons on partial derivatives and optimization
+
+### Optimization Theory
+- [Convex Optimization by Boyd & Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) 📖 – Stanford's foundational optimization textbook (free PDF)
 - [Algorithms for Optimization](https://algorithmsbook.com/optimization/) 📖 – Modern optimization techniques
+- [Introduction to Optimization Theory](https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/) 🎓 – MIT nonlinear programming course
+- [Numerical Optimization by Nocedal & Wright](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf) 📖 – Comprehensive optimization algorithms
+
+### Machine Learning Applications
+- [Backpropagation Calculus](https://www.youtube.com/watch?v=Ilg3gGewQ5U) 🎥 – 3Blue1Brown's neural network calculus
+- [Gradient Descent Explained](https://www.youtube.com/watch?v=sDv4f4s2SB8) 🎥 – Visual explanation of gradient descent
+- [Stochastic Optimization Methods](https://www.youtube.com/watch?v=NH6z7uB4L8Y) 🎥 – SGD, Adam, and modern optimizers
+- [Optimization for Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf) 📋 – Practical optimization tricks for ML
+- [Lagrange Multipliers Explained](https://www.youtube.com/watch?v=yuqB-d5MjZA) 🎥 – Constrained optimization fundamentals
+
+### Interactive Tools & Visualization
+- [Gradient Descent Playground](https://playground.tensorflow.org/) 🎮 – Visualize optimization in neural networks
+- [Calculus Visualization Tool](https://www.geogebra.org/graphing) 💻 – Interactive calculus exploration
+
+### Implementation & Practice
+- [Numerical Methods Primer](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) 📚 – Practical numerical computation
+- [SciPy Optimization Tutorial](https://docs.scipy.org/doc/scipy/tutorial/optimize.html) 💻 – Python optimization tools
+- [Autograd Tutorial](https://github.com/HIPS/autograd) 💻 – Automatic differentiation in Python
+- [JAX Optimization Examples](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) 💻 – Modern optimization with JAX
 
 ---
 

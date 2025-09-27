@@ -61,8 +61,16 @@ Start here for the mathematical foundations of machine learning and AI. These ca
 ---
 
 ## 📊 Linear Algebra
+<img 
+  width="1584" 
+  height="396" 
+  alt="Linear Algebra - Mathematical foundation for machine learning algorithms, vectors, matrices, and transformations essential for AI development" 
+  title="Linear Algebra: Mathematical Foundation for Machine Learning & AI"
+  src="https://github.com/user-attachments/assets/a779c820-6421-4bb9-8d98-33328b3b0e14"
+  loading="lazy"
+/>
 
-Master the mathematical foundation of machine learning algorithms.
+Vectors, matrices, and transformations form the mathematical backbone of machine learning. Linear algebra concepts like eigenvalues, matrix decomposition, and vector spaces are essential for understanding neural networks, dimensionality reduction, and optimization algorithms that power modern AI systems.
 
 - [Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 🎥 – Visual and intuitive approach to linear algebra
 - [Singular Value Decomposition Explained](https://www.youtube.com/watch?v=P5mlg91as1c) 🎥 – Deep dive into SVD

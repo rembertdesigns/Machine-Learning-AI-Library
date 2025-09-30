@@ -64,6 +64,8 @@ Build the mathematical foundation essential for machine learning success. Mathem
 | [Math Prerequisites for ML CheatSheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-algebra-calculus) | 📋 Reference | Stanford's quick math reference for ML |
 | [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/) | 📖 Book | Interview prep with mathematical focus |
 
+**[⬆ Back to Table of Contents](#-table-of-contents)**
+
 ---
 
 ## 📊 Linear Algebra
@@ -101,6 +103,8 @@ Vectors, matrices, and transformations form the mathematical backbone of machine
 
 ### Implementation & Practice
 - [NumPy Linear Algebra Tutorial](https://numpy.org/doc/stable/reference/routines.linalg.html) 💻 – Implementing linear algebra in Python
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -148,6 +152,8 @@ Derivatives, gradients, and optimization algorithms drive the learning process i
 - [Autograd Tutorial](https://github.com/HIPS/autograd) 💻 – Automatic differentiation in Python
 - [JAX Optimization Examples](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) 💻 – Modern optimization with JAX
 
+**[⬆ Back to Table of Contents](#-table-of-contents)**
+
 ---
 
 ## 🎲 Probability & Statistics
@@ -186,6 +192,8 @@ Statistical thinking and probability theory form the foundation of data science 
 - [Scipy Statistics Tutorial](https://docs.scipy.org/doc/scipy/tutorial/stats.html) 💻 – Statistical functions in Python
 - [Statsmodels Documentation](https://www.statsmodels.org/stable/index.html) 💻 – Statistical modeling in Python
 - [R for Data Science - Statistics](https://r4ds.had.co.nz/) 📚 – Statistical analysis with R
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -230,6 +238,8 @@ Master the algorithms and techniques that power intelligent systems. Machine lea
 ### Video Learning
 - [3Blue1Brown Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) – Visual neural network explanations
 - [StatQuest Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) – Clear ML concept explanations
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -278,6 +288,8 @@ Neural networks with multiple layers unlock artificial intelligence's most power
 - [Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) – RL theory and applications
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) – CV fundamentals and deep learning
 
+**[⬆ Back to Table of Contents](#-table-of-contents)**
+
 ---
 
 ## 🎮 Reinforcement Learning
@@ -325,6 +337,8 @@ Learn how algorithms optimize behavior through reward signals and environmental 
 - [Deep RL Papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) 📄 – Curated research papers
 - [RL in Real World](https://arxiv.org/abs/1909.12397) 📄 – Practical RL deployment challenges
 - [AlphaGo Paper](https://www.nature.com/articles/nature16961) 📄 – Breakthrough game-playing AI
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -388,6 +402,8 @@ Essential development environments, programming tools, and platforms for machine
 - [Streamlit](https://streamlit.io/) – Web app framework for ML
 - [Gradio](https://gradio.app/) – Quick ML model interfaces
 - [Docker](https://www.docker.com/) – Containerization for reproducible environments
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -469,6 +485,8 @@ Build machine learning systems with battle-tested frameworks and specialized lib
 - **Java**: [Weka](https://www.cs.waikato.ac.nz/ml/weka/), [Deeplearning4j](https://deeplearning4j.konduit.ai/)
 - **C++**: [PyTorch C++](https://pytorch.org/cppdocs/), [TensorFlow C++](https://www.tensorflow.org/api_docs/cc)
 
+**[⬆ Back to Table of Contents](#-table-of-contents)**
+
 ---
 
 ## 📚 Books/Blogs
@@ -529,6 +547,8 @@ Deepen your understanding through carefully selected books, blogs, and education
 - [Information Theory, Inference & Learning](http://www.inference.org.uk/mackay/itila/) by David MacKay – Mathematical foundations
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) by Boyd & Vandenberghe – Optimization theory
 - [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon Prince – CV fundamentals
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -591,6 +611,8 @@ Learn machine learning concepts through interactive visualizations and hands-on 
 - [Explained Visually](https://setosa.io/ev/) – Visual explanations of complex concepts
 - [Machine Learning for Artists](https://ml4a.github.io/) – Creative applications of ML
 - [AI Education Project](https://www.aieducation.org/) – Interactive AI learning modules
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
@@ -662,6 +684,8 @@ Master large language models and generative AI systems that understand and gener
 - [Retrieval-Augmented Generation](https://arxiv.org/abs/2005.11401) – Combining retrieval with generation
 - [In-Context Learning](https://arxiv.org/abs/2005.14165) – Few-shot learning capabilities
 
+**[⬆ Back to Table of Contents](#-table-of-contents)**
+
 ---
 
 ## 🎓 EdTech & Course Creation Tools
@@ -725,6 +749,8 @@ Leverage AI-powered educational technology to create, enhance, and deliver machi
 - [Replit for Education](https://replit.com/site/teams-for-education) – Collaborative coding environment
 - [Google Colab](https://colab.research.google.com/) – Cloud-based ML education platform
 - [Kaggle Learn](https://www.kaggle.com/learn) – Free micro-courses in data science
+
+**[⬆ Back to Table of Contents](#-table-of-contents)**
 
 ---
 
